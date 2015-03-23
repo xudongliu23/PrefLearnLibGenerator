@@ -1,0 +1,11 @@
+OutcomeID,BodyType,Transmission,EngineCapacity,FuelConsumed
+1,SUV,Manual,2.5L,Non-Hybrid
+2,Sedan,Automatic,5.5L,Hybrid
+3,Sedan,Manual,4.5L,Non-Hybrid
+4,Sedan,Manual,6.2L,Non-Hybrid
+5,SUV,Manual,3.5L,Non-Hybrid
+6,SUV,Automatic,3.5L,Hybrid
+7,Sedan,Automatic,3.5L,Hybrid
+8,SUV,Automatic,2.5L,Hybrid
+9,Sedan,Automatic,3.5L,Non-Hybrid
+10,SUV,Automatic,4.5L,Non-Hybrid

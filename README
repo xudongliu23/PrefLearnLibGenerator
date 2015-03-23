@@ -1,1 +1,18 @@
-Xudong Liu
+PrefLearn Library Generator
+Author: Xudong Liu
+
+1. To facilitate preference learning, we build a library of various preferential datasets useful for 
+	 conducting preference learning experiments on real-world data.
+
+
+2. Contents:
+	 - Original/:
+		 contains original datasets scraped from preference-learning.org, preflib.org, StatLog Datasets
+		 and UCI Machine Learning Repository.
+
+	 - PrefLearnLib/:
+		 contains preference learning datasets translated from the original ones.
+
+	 - Src/:
+		 contains source codes to generate the preference learning datasets in PrefLearnLib/ from the
+		 original ones in Original/.
