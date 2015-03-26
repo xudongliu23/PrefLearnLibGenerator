@@ -1,0 +1,16 @@
+PrefLearnLib/UCI/TicTacToe/strict_examples.csv
+PrefLearnLib/UCI/TicTacToe/eq_examples.csv
+PrefLearnLib/UCI/GermanCredit/strict_examples.csv
+PrefLearnLib/UCI/GermanCredit/eq_examples.csv
+PrefLearnLib/UCI/Nursery/strict_examples.csv
+PrefLearnLib/UCI/Nursery/eq_examples.csv
+PrefLearnLib/UCI/Vehicle/strict_examples.csv
+PrefLearnLib/UCI/Vehicle/eq_examples.csv
+PrefLearnLib/UCIBreastCancerWisconsin/strict_examples.csv
+PrefLearnLib/UCIBreastCancerWisconsin/eq_examples.csv
+PrefLearnLib/UCI/MammographicMass/strict_examples.csv
+PrefLearnLib/UCI/MammographicMass/eq_examples.csv
+PrefLearnLib/UCI/CarEvaluation/strict_examples.csv
+PrefLearnLib/UCI/CarEvaluation/eq_examples.csv
+PrefLearnLib/UCI/Mushroom/strict_examples.csv
+PrefLearnLib/UCI/Mushroom/eq_examples.csv

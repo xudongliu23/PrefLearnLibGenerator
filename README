@@ -12,6 +12,7 @@ Author: Xudong Liu
 
 	 - PrefLearnLib/:
 		 contains preference learning datasets translated from the original ones.
+		 Note: for discretization, do NOT forgot to remove duplicate outcomes.
 
 	 - Src/:
 		 contains source codes to generate the preference learning datasets in PrefLearnLib/ from the
