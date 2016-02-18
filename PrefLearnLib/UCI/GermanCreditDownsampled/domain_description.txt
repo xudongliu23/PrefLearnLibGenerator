@@ -1,0 +1,15 @@
+A1:a11,a12,a13,a14
+A2:low,medium,high,vhigh
+A3:low,medium,high,vhigh
+A4:low,medium,high,vhigh
+A5:low,medium,high,vhigh
+A6:low,medium,high,vhigh
+A7:low,medium,high,vhigh
+A8:1,2,3,4
+A9:low,medium,high,vhigh
+A10:a101,a102,a103
+A11:1,2,3,4
+A12:a121,a122,a123,a124
+A13:low,medium,high,vhigh
+A14:a141,a142,a143
+A15:a151,a152,a153

@@ -13,6 +13,7 @@
 	 - The domain description file is added.
 	 - The outcomes csv file is added.
 	 - The eq_examples and strict examples csv files are added.
+	 - Noise in the original classification dataset is removed.
 
 
 4. Contents:

@@ -1,0 +1,15 @@
+Compactness:low,medium,high,vhigh
+Circularity:low,medium,high,vhigh
+DistanceCircularity:low,medium,high,vhigh
+RadiusRatio:low,medium,high,vhigh
+PrAxisRatio:low,medium,high,vhigh
+MaxLengthRatio:low,medium,high,vhigh
+ScatteRatio:low,medium,high,vhigh
+Elongatedness:low,medium,high,vhigh
+PrAxisRectangularity:low,medium,high,vhigh
+MaxLengthRectangulari:low,medium,high,vhigh
+VarianceMajorAxis:low,medium,high,vhigh
+VarianceMinorAxis:low,medium,high,vhigh
+RadiusOfGyrati:low,medium,high,vhigh
+SkewnessMajor:low,medium,high,vhigh
+SkewnessMinor:low,medium,high,vhigh

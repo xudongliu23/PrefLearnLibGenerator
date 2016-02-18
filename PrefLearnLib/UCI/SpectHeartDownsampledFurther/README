@@ -1,0 +1,43 @@
+1. Origin of the dataset:
+	 - The SPECT heart dataset from https://archive.ics.uci.edu/ml/datasets/SPECT+Heart.
+
+
+2. Editor:
+	 - Xudong Liu, last modified date: 12/23/2015.
+
+
+3. How this dataset differs from its origin:
+	 - The original dataset is a classification dataset.
+	   Variables are down to 10, F1 through F10.
+	 - The data overview file is added.
+	 - The domain description file is added.
+	 - The outcomes csv file is added.
+	 - The eq_examples and strict examples csv files are added.
+
+
+4. Contents:
+	 - data_overview.txt: 
+		 gives an overview of the dataset, i.e., the number of attributes,
+		 the number of outcomes considered, the number of users from whom the data is gathered,
+		 the number of strict examples for all users, and the number of equivale for all users.
+
+	 - domain_description.txt: 
+		 describes all attributes and their domains that compose the outcomes.
+		 Every line describes an attribute and its domain, represented by the name of the attribute
+		 followed by a list of its values separated by commas.  The attribute name and the list are
+		 separated by a colon.
+
+	 - eq_examples.csv: 
+		 contains equivalent examples for all users.  Every line describes an 
+		 equivalent example for some user, represented by a user ID, an outcome ID and another outcome ID,
+		 separated by commas.  It means that for this user, the two outcomes are equivalent.
+
+	 - outcomes.csv: 
+		 contains all outcomes considered by the users for this experiment.
+		 Every line describes an outcome, represented by an outcome ID, a list of values for all
+		 attributes, separated by commas.
+
+	 - strict_examples.csv: 
+		 contains strict examples for all users.  Every line describes a
+		 strict example for some user, represented by a user ID, an outcome ID and another outcome ID,
+		 separated by commas.  It means that for this user, the first outcome is preferred to the second.
