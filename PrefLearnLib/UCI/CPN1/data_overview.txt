@@ -1,0 +1,5 @@
+#attributes:3
+#outcomes:8
+#users:1
+#strictExamples:25
+#eqExamples:0
