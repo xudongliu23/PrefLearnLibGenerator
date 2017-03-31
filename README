@@ -18,3 +18,7 @@ Author: Xudong Liu
 		 contains source codes to generate the preference learning datasets in PrefLearnLib/ from the
 		 original ones in Original/.
 		 Usage: ./gen /path/to/label_ranks.csv /path/to/classification_dataset.csv /path/to/strict_examples.csv /path/to/eq_examples.csv
+
+	 - build.sh:
+		 a script that automatically uses Src/gen to build the preference learning datasets in PrefLearnLib/ from the 
+		 original ones in Original/.
